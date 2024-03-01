@@ -1,0 +1,6 @@
+Endpoints
+The following endpoints are available in the application:
+
+POST /api/configure/{userId}: Configures rate limits for a user.
+GET /api/request/{userId}: Checks whether a request is allowed for a user.
+For detailed usage instructions, see the Usage section below.
